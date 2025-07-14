@@ -1,0 +1,38 @@
+{
+  "tasks": [
+    {
+      "id": "2",
+      "title": "Physics Midterm Study",
+      "subject": "Physics",
+      "deadline": "2025-07-22T00:21:57.820241",
+      "priority": 5,
+      "estimated_hours": 8.0,
+      "completion_status": 0.4,
+      "task_type": "exam",
+      "difficulty": 5
+    },
+    {
+      "id": "3",
+      "title": "History Essay Research",
+      "subject": "History",
+      "deadline": "2025-07-20T00:21:57.820245",
+      "priority": 3,
+      "estimated_hours": 4.0,
+      "completion_status": 0.0,
+      "task_type": "assignment",
+      "difficulty": 3
+    },
+    {
+      "id": "4",
+      "title": "Chemistry Lab Report",
+      "subject": "Chemistry",
+      "deadline": "2025-07-17T00:21:57.820248",
+      "priority": 4,
+      "estimated_hours": 3.0,
+      "completion_status": 0.0,
+      "task_type": "assignment",
+      "difficulty": 3
+    }
+  ],
+  "last_updated": "2025-07-15T00:24:14.923684"
+}

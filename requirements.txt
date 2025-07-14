@@ -1,0 +1,11 @@
+
+# Basic requirements for local development
+python-dotenv==1.0.0
+python-dateutil==2.8.2
+requests==2.31.0
+
+# Optional: Add these one by one if needed
+# google-api-python-client==2.108.0
+# google-auth-oauthlib==1.1.0
+# pandas==2.1.3
+# flask==3.0.0
